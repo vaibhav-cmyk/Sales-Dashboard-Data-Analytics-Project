@@ -2,7 +2,7 @@
 A macro-enabled Excel dashboard that visualizes sales performance across regions and executives, helping track targets, analyze performance, and make data-driven decisions.
 
 
-#📊 Sales Dashboard – Data Analytics Project
+# 📊 Sales Dashboard – Data Analytics Project
 📌 Project Overview
 This project showcases a Sales Dashboard built using Excel (with Macros) to provide actionable insights into sales performance across multiple regions and executives. The dashboard consolidates raw sales data and visually represents KPIs to help decision-makers track progress, identify gaps, and improve performance.
 
